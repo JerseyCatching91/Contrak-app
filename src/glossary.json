@@ -1,0 +1,12 @@
+{
+  "auto-renewal": "A contract clause that automatically extends the term unless canceled in advance by the user.",
+  "no refunds": "A term that limits or denies the user’s ability to receive money back after purchase.",
+  "binding arbitration": "A clause requiring disputes to be resolved by arbitration rather than court, often waiving rights to class actions.",
+  "early termination fee": "A fee charged to users who cancel service before the agreed-upon contract end date.",
+  "limited liability": "Limits the amount or types of damages one party can recover from another.",
+  "as is": "Software provided without guarantees. User assumes all risks.",
+  "limitation of liability": "Limits legal responsibility for damages.",
+  "third-party licenses": "Other parts of software have their own rules.",
+  "attribution requirements": "You must keep license notices when sharing.",
+  "no endorsement clause": "You cannot use creator’s name for promotion."
+}
